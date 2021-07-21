@@ -21,7 +21,6 @@
       <!-- Introduction section -->
             <div class="row intro py-1">
               <div class="col-sm-12 col-md">
-                <div class="heading text-center my-5" style="background-image: url('https://i.pinimg.com/originals/75/f5/a4/75f5a4bf815ae6c8f9d79da0e3655594.gif');">
                   <h3>Your are Welcome to</h3>
                   <h1> THE SPARKING BANK</h1>
                 </div>
